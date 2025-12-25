@@ -13,10 +13,5 @@
   <h1>Dynamite Games</h1>
   <p>Official website.</p>
 
-  <!-- 필수 아님 / 선택 -->
-  <p>
-    <a href="/app-ads.txt">app-ads.txt</a>
-  </p>
-
 </body>
 </html>
